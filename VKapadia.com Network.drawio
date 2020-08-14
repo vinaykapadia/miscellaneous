@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T17:48:06.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="28EiXfENmmlD8fDmgbOB" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T18:04:48.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="pBUYiYJFXo_VzXUvJAX_" version="13.6.2" type="github">
   <diagram id="iYit6yQuZBh6cs0Pciwx" name="Page-1">
     <mxGraphModel dx="2370" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,8 +164,8 @@
         <mxCell id="tFoZjdkVx6EBwdPbSg_g-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tFoZjdkVx6EBwdPbSg_g-29" target="tFoZjdkVx6EBwdPbSg_g-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="928" />
-              <mxPoint x="250" y="928" />
+              <mxPoint x="220" y="950" />
+              <mxPoint x="220" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -232,24 +232,25 @@
         <mxCell id="tFoZjdkVx6EBwdPbSg_g-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tFoZjdkVx6EBwdPbSg_g-43" target="tFoZjdkVx6EBwdPbSg_g-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="300" y="928" />
-              <mxPoint x="330" y="928" />
+              <mxPoint x="330" y="960" />
+              <mxPoint x="330" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tFoZjdkVx6EBwdPbSg_g-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tFoZjdkVx6EBwdPbSg_g-43" target="tFoZjdkVx6EBwdPbSg_g-33" edge="1">
+        <mxCell id="tFoZjdkVx6EBwdPbSg_g-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.98;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.95;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tFoZjdkVx6EBwdPbSg_g-43" target="tFoZjdkVx6EBwdPbSg_g-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="940" />
+              <mxPoint x="353" y="940" />
               <mxPoint x="378" y="940" />
             </Array>
+            <mxPoint x="560" y="1080" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tFoZjdkVx6EBwdPbSg_g-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="tFoZjdkVx6EBwdPbSg_g-43" target="tFoZjdkVx6EBwdPbSg_g-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tFoZjdkVx6EBwdPbSg_g-43" value="Switch 8" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" parent="1" vertex="1">
-          <mxGeometry x="235" y="980" width="100" height="30" as="geometry" />
+          <mxGeometry x="210" y="980" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tFoZjdkVx6EBwdPbSg_g-44" value="Kitchen Display" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" parent="1" vertex="1">
           <mxGeometry x="1120" y="630" width="100" height="55" as="geometry" />
@@ -311,7 +312,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tFoZjdkVx6EBwdPbSg_g-65" value="Smart Switch 8" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.load_balancer;" parent="1" vertex="1">
-          <mxGeometry x="1995" y="280" width="100" height="30" as="geometry" />
+          <mxGeometry x="1995" y="280" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tFoZjdkVx6EBwdPbSg_g-66" value="Garuda" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" parent="1" vertex="1">
           <mxGeometry x="2030" y="170" width="30" height="60" as="geometry" />
