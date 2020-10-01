@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T18:04:48.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="pBUYiYJFXo_VzXUvJAX_" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-01T15:42:11.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="CShvBMLPamITFf7lWQZG" version="13.6.2" type="github">
   <diagram id="iYit6yQuZBh6cs0Pciwx" name="Page-1">
-    <mxGraphModel dx="2370" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="tFoZjdkVx6EBwdPbSg_g-92" value="Living Room" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=middle;fontSize=24;spacingRight=2;spacingBottom=2;" parent="1" vertex="1">
           <mxGeometry x="965" y="80" width="620" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="tFoZjdkVx6EBwdPbSg_g-90" value="Mandir" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=right;verticalAlign=bottom;spacingRight=2;spacingBottom=2;" parent="1" vertex="1">
+        <mxCell id="tFoZjdkVx6EBwdPbSg_g-90" value="Network Closet" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=right;verticalAlign=bottom;spacingRight=2;spacingBottom=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="800" width="490" height="260" as="geometry" />
         </mxCell>
         <mxCell id="tFoZjdkVx6EBwdPbSg_g-89" value="Outside" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=right;verticalAlign=bottom;spacingRight=2;spacingBottom=2;" parent="1" vertex="1">
